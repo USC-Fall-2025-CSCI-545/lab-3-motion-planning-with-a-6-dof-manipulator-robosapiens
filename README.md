@@ -23,4 +23,15 @@ The demo script `adarrt.py` is written for Python 2 and is provided for referenc
 
 In Lab 3, both Python 2 and Python 3 versions of the script are already included in the Docker images provided (as referenced in the Overleaf file), depending on which version you choose to use.
 
-The Lab 3 simulation supports both Python 2 and Python 3 implementations; however, the real-world lab only supports Python 2.
+
+### Code Files Used
+
+The files used to perform the Lab 3 simulations and real‑world execution are included in this repository.
+
+| Purpose | File Name | Link |
+|---------|-----------|------|
+| Simulation (Python 3) | `adarrt.py` | [View](adarrt/src/adarrt.py) |
+| Real Robot Execution (Python 2) | `adarrt_python2.py` | [View](adarrt/src/adarrt_python2.py) |
+
+The Python 3 file was used for all simulation runs recorded in the videos.  
+The Python 2 file was used during the in‑person lab session on the real robot arm, as required by the hardware setup.
